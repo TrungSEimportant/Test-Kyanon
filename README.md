@@ -2,12 +2,16 @@
 
 In the project directory, you can run:
 
-### Move into the project folder.
+### Move into the project folder:
 ### `cd test-react`
 
-### Install the necessary libraries.
+
+
+### Install the necessary libraries:
 ### `npm install`
 
-### Start the application.
+
+
+### Start the application:
 ### `npm start`
 
